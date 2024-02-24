@@ -13,5 +13,5 @@ Description of code:
 		"I'm Nolan and I've always wanted to visi [that place]'" -Nolan
 	3) ask user if they like random numbers.
         If yes, give them a list of 5 random numbers.
-        Otherwise, ask for their favorite number and respond accordingly
+        Otherwise, ask for their favorite number and respond accordingly -Anthony
 
